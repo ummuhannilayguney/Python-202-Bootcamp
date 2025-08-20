@@ -49,13 +49,13 @@ python asama1_oop_terminal.py
 
 ### Ana Menü
 ---
-![Aşama 1 Ana Menü](screenshots/asama1_menu.png)
+![Aşama 1 Ana Menü](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama1_menu.png)
 ### Kitap Ekleme
 ---
-![Kitap Ekleme](screenshots/asama1_kitap_ekle.png)
+![Kitap Ekleme](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama1_kitap_ekle.png)
 ### Kitapları Listeleme
 ---
-![Kitapları Listeleme](screenshots/asama1_kitapları_listele.png)
+![Kitapları Listeleme](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama1_kitapları_listele.png)
 ### Menü Seçenekleri
 1. Kitap Ekle
 2. Kitap Sil
@@ -93,7 +93,7 @@ python asama2_api_entegrasyonu.py
 
 ### API ile Kitap Ekleme
 ---
-![API ile Kitap Ekleme](screenshots/asama2_api_kitap_ekle.png)
+![API ile Kitap Ekleme](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama2_api_kitap_ekle.png)
 ### Test Etme
 ```bash
 pytest testler/test_asama2_api_entegrasyonu.py -v
@@ -135,13 +135,13 @@ uvicorn asama3_fastapi_web:app --reload
 
 ### FastAPI Swagger Dokümantasyonu
 ---
-![FastAPI Docs](screenshots/asama3_docs_sayfa.png)
+![FastAPI Docs](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama3_docs_sayfa.png)
 ### POST Endpoint Test
 ---
-![POST Books](screenshots/asama3_post_kitap.png)
+![POST Books](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama3_post_kitap.png)
 ### GET Endpoint Test
 ---
-![GET Books](screenshots/asama3_get_kitap.png)
+![GET Books](Python202-Bootcamp-main/Python202-Bootcamp-main/screenshots/asama3_get_kitap.png)
 ### API Dokümantasyonu
 Sunucu çalıştıktan sonra aşağıdaki adreslere gidebilirsiniz:
 - **Interaktif Dokümantasyon**: http://localhost:8000/docs
