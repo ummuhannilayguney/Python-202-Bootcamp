@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Sefiller",
+    "author": "Victor Hugo",
+    "isbn": "123"
+  },
+  {
+    "title": "Körlük",
+    "author": "Jose Saramago",
+    "isbn": "2222"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "33333"
+  },
+  {
+    "title": "İnce Memed",
+    "author": "Yaşar Kemal",
+    "isbn": "44444"
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J. K. Rowling",
+    "isbn": "9780747532699"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565"
+  }
+]
