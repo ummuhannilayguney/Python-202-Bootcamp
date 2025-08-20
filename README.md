@@ -1,4 +1,4 @@
-# Global AI Hub Python 202 Bootcamp Projesi
+# Global AI Hub Python 202 Bootcamp Kütüphane Projesi
 
 Bu proje, Python 202 Bootcamp'inde öğrenilen üç temel konuyu (OOP, Harici API Kullanımı, Kendi API'nizi FastAPI ile Yazma) birleştirerek somut bir ürün ortaya çıkarmayı amaçlamaktadır. Proje üç aşamadan oluşur ve her aşama bir önceki üzerine inşa edilir.
 
